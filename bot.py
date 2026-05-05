@@ -7,7 +7,7 @@ api_hash = "a9468f9a7654ae557f8eb8ce74b2c79f"
 
 # 📥 SOURCES
 source_channel = -1003808509407   # your main channel
-extra_chat = 5673453687            # your personal chat OR group ID
+extra_chat = 8282485136            # your personal chat OR group ID
 
 # 📤 TARGET
 target_channel = -1003944179057
